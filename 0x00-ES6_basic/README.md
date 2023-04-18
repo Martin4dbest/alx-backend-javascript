@@ -1,9 +1,9 @@
-## 0x00. ES6 Basics
+##Folder:  0x00. ES6 Basics
 
 ```diff
 
-- This is Javascript and Es6 Project
-+ Author below:
+- My Javascript and Es6 project
++  Author below:
 
 ```
 ## Author: Agoha Martin Obiarandu
